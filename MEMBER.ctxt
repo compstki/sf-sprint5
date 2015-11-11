@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MEMBER()
+comment1.params=dataItems
+comment1.target=void\ readMemberDetails(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ writeDetails()
+comment3.params=
+comment3.target=float\ getBMI()
+comment4.params=
+comment4.target=void\ displayDetails()
+numComments=5
