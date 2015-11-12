@@ -26,7 +26,6 @@ public class MEMBER
     }
 
     // file handling store details from file
-    //public void readMemberDetails(String[] rowItems)
     public void readMemberDetails(String dataItems)
     {
         // unpack string of row data into fields
@@ -63,8 +62,8 @@ public class MEMBER
     public void displayDetails()
     {
         // output basic details
-        System.out.println("Pupil " + fName + " " + sName);
-        System.out.print("BMI is ");
+        System.out.print("Member: " + fName + " " + sName);
+        System.out.print(",  BMI is ");
         System.out.printf("%.2f", bmi);
         System.out.println();
     }
