@@ -16,8 +16,8 @@ public class MEMBER
     public MEMBER()
     {
         // initialise instance variables
-        fName = "";
-        sName = "";
+        fName = "jim";
+        sName = "mac";
         weight = 0.0f;
         height = 0.0f;
         memberID = "";
@@ -69,4 +69,3 @@ public class MEMBER
     }
 
 }
-
